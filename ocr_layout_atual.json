@@ -5339,7 +5339,7 @@
             "ISÊÉ abicom)|"
         ],
         [
-            "Detasagem nos Principais FPolos [R:\n[ Gasoliva | Diesel )\n[O R$ 0,12] 4% |& -R$ 0,04] -1% |\n| Defasagem nos Polos Petrobras (RS/L) |\n[— casolina | - Diesel |\n\nR$ 0,09] 3% |& -R$ 0,08[ -2% |",
+            "[ Gasoliva | Diesel )\n[O R$ 0,12] 4% |& -R$ 0,04] -1% |\n| Defasagem nos Polos Petrobras (RS/L) |\n[— casolina | - Diesel |\n\nR$ 0,09] 3% |& -R$ 0,08[ -2% |",
             "——"
         ],
         [
@@ -5591,7 +5591,7 @@
             "Ô abicom|"
         ],
         [
-            "Veiasagem nos rrincipais Potos tR>/L)\n|— asolina | — Diesel —\nR$ 0,09] 3% |Q R$0,10/ 3% |\n| Defasagem nos Polos Petrobras (R$/L) |\n|— sasolina — | — Diesel — |\nR$ 0,09] 3% |& R$0,12[ 3% |",
+            "Veiasagem nos rrincipais Potos tR>/L)\n|— asolina | — Diesel —\nR$ 0,09] 3% |Q R$0,10/ 3% |\n|— sasolina — | — Diesel — |\nR$ 0,09] 3% |& R$0,12[ 3% |",
             "— ——"
         ],
         [
@@ -5627,7 +5627,7 @@
             "SÊ abicom!|"
         ],
         [
-            "merasagem nos Frincipais Fo'os U$\nEGn t o Dlaso =\n| Defasagem nos Polos Petrobras (R$/L) |\n|— —casolina — | — Diesel —\n[& R$0,08] 3% |& R$0,10] 3% |",
+            "EGn t o Dlaso =\n|— —casolina — | — Diesel —\n[& R$0,08] 3% |& R$0,10] 3% |",
             ""
         ],
         [
@@ -5663,7 +5663,7 @@
             "Ô abicom|"
         ],
         [
-            "Veiasagem nos rrincipais Potos tR>/L)\n|— asolina | — Diesel |\nR$0,18] 6% |Q R$0,18[ 5% |\n| Defasagem nos Polos Petrobras (R$/L) |\n|— sasolina — | — Diesel — |\nR$ 0,18] 6% |& R$0,20[ 6% |",
+            "Veiasagem nos rrincipais Potos tR>/L)\n|— asolina | — Diesel |\nR$0,18] 6% |Q R$0,18[ 5% |\n|— sasolina — | — Diesel — |\nR$ 0,18] 6% |& R$0,20[ 6% |",
             "— ——"
         ],
         [
@@ -5711,7 +5711,7 @@
             "ISÔÉ abicoml|"
         ],
         [
-            "Detasagem nos Principais Fojos D:\n[—Gasolna-\"- 1 Dissalo\n|D R$0,01] 0% || R$ 0,05] 1% |\n[ Defasagem nos Polos Petrobras (R$/L) |\n[D R$ 0,02] 1% |D R$0,07] 2% |",
+            "[—Gasolna-\"- 1 Dissalo\n|D R$0,01] 0% || R$ 0,05] 1% |\n[ Defasagem nos Polos Petrobras (R$/L) |\n[D R$ 0,02] 1% |D R$0,07] 2% |",
             ""
         ],
         [
@@ -6264,7 +6264,7 @@
             "IÔÉ abicom)|"
         ],
         [
-            "Detasagem nos Principais POIOS [IRp/L)\n[ — sasolina | Diesel\n[O-RS 0,12] -4% jQ -R$ 0,40[-11% |\n| Defasagem nos Polos Petrobras (R$/L) |\n[ sasolivra | - piesel |\n[& -R$ 0,13] -4% |& -R$ 0,46[-13% |",
+            "Detasagem nos Principais POIOS [IRp/L)\n[ — sasolina | Diesel\n[O-RS 0,12] -4% jQ -R$ 0,40[-11% |\n[ sasolivra | - piesel |\n[& -R$ 0,13] -4% |& -R$ 0,46[-13% |",
             ""
         ],
         [
@@ -9320,6 +9320,54 @@
         ],
         [
             "Verasagem nos Frincipais Polos [R5//L)\n| — 2— EE o o S ee\n[O R$0,31/12% |Q R$0,18 6% |\nDefasagem nos Polos Petrobras (R$/L) |\n[ gasolina — | —— Diesel —\nR$ 0,36] 13% |Q R$0,20/ 6% |",
+            ""
+        ],
+        [
+            ""
+        ]
+    ],
+    "20260109": [
+        [
+            "SÊ abicom|"
+        ],
+        [
+            "Detasagem nos Principais Polos [Rp/L)\n|  Gesolina |  Diesel —\n[o R$0,24] 9% |n R$0,07] 2% |\nDefasagem nos Polos Petrobras [R$/L) |\n|  Gasolia | - Diesel |\n& R$ 0,28[ 10% j R$ 0,09] 3% |",
+            ""
+        ],
+        [
+            ""
+        ]
+    ],
+    "20260112": [
+        [
+            "Ô abicom|"
+        ],
+        [
+            "Detasagem nos Principais Polos [R5/L)\n[ Gasolina — | — Diesel — |\n[o R$0,23] 9% |n R$0,06\n\nDefasagem nos Polos Petrobras (R$/L) |\n[ asolina — | — biesel — |\n& R$ 0,27] 10% |ÉQ R$0,07] 2% |)",
+            "——"
+        ],
+        [
+            "— ——"
+        ]
+    ],
+    "20260113": [
+        [
+            "IÔÉ abicom)|"
+        ],
+        [
+            "Detasagem nos Principais Polos [R5/L)\nF Gasolina 1c Dlesalo o |\n|o R$0,22] 8% |D R$0,02] 1% |\n| Defasagem nos Polos Petrobras (R$/L] |\n[ Gasoliva | - ilesel\n|& R$ 0,26/ 10% |& R$ 0,04[ 1% |",
+            ""
+        ],
+        [
+            ""
+        ]
+    ],
+    "20260114": [
+        [
+            "IÔÉ abicom!|"
+        ],
+        [
+            "Verasagem nos Frincipais Potos (Rp/L)\n|— casolina | Diesel\n[O R$0,19] 7% j& -R$ 0,08/ -3% |\n\nDefasagem nos Polos Petrobras (R$/L) |\n[ Gasolina — | — Diesel — |\n[& R$ 0,23] 9% je -R$ 0,06[ -2% |",
             ""
         ],
         [
