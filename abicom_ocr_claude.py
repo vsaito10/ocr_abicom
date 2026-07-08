@@ -144,13 +144,13 @@ def process_image(image_path: str) -> pd.DataFrame:
     results = extract_values_before_rsl(image_path, section="principais")
 
     if not results:
-        return pd.DataFrame({"gasolina": [float("nan")], "diesel": [float("nan")]}, index=date_idx)
+        return pd.DataFrame({"diesel": [float("nan")], "gasolina": [float("nan")]}, index=date_idx)
 
     df = pd.DataFrame(results, columns=["value", "context"])
     df["value"] = pd.to_numeric(df["value"].str.replace(",", "."), errors="coerce")
 
     df = df[["value"]].T
-    df.columns = ["gasolina", "diesel"]
+    df.columns = ["diesel", "gasolina"]
     df.index = date_idx
 
     return df
